@@ -1,5 +1,4 @@
 package testNGPackA;
-
 import java.util.Random;
 
 import org.openqa.selenium.By;
